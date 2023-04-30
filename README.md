@@ -1,4 +1,4 @@
-# NLP-with-Classification-and-Vector-Spaces
+# Sentiment Analysis in NLP
 
 
 * distinguish texts between positive sentiments and negative sentiments using logistic regression and naive bayes classifier
